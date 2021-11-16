@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Humanities",
+      "Linguistics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "19f8d59c-b726-dead-fe25-b5c4c1566f1d",
+      "5fa604ba-b673-f897-914b-ef257b3ff7d7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Automatic Speech Recognition",
+  "course_description": "6.345 introduces students to the rapidly developing field of automatic speech recognition. Its content is divided into three parts. Part I deals with background material in the acoustic theory of speech production, acoustic-phonetics, and signal representation. Part II describes algorithmic aspects of speech recognition systems including pattern classification, search algorithms, stochastic modelling, and language modelling techniques. Part III compares and contrasts the various approaches to speech recognition, and describes advanced techniques used for acoustic-phonetic modelling, robust speech recognition, speaker adaptation, processing paralinguistic information, speech understanding, and multimodal processing.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.345",
+  "learning_resource_types": [
+    "Demonstration Audio",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
